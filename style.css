@@ -1,0 +1,70 @@
+html{
+    background-color: rgb(186, 182, 194);
+    top: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+
+header{
+    background-color: rgb(163, 164, 196);
+    justify-content: center;
+    text-align: center;
+}
+
+nav ul{
+    list-style: none;
+    color: black;
+    padding: 1rem;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 0.5rem 2rem;
+    color: black;
+
+}
+
+nav ul li a:hover{
+    background-color: rgb(125, 114, 134);
+}
+
+
+
+h2{
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    margin-left: 40px;
+}
+
+ul li img{
+    height: 700px;
+}
+
+h3{
+    padding: 0;
+    margin: 0;
+
+}
+
+section{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#theories{
+    padding: 1rem;
+}
+
+#theories p{
+    margin-left: 40px;
+}
